@@ -1,1 +1,2 @@
 In git, this is the second file
+changes2
