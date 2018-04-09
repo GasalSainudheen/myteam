@@ -1,3 +1,7 @@
 This is a change made in branch
-Conflict in master
+<<<<<<< HEAD
+This is to make conflict; 
 
+=======
+This is to make conflict;
+>>>>>>> branch1
